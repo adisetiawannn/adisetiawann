@@ -10,6 +10,7 @@ AI engineering and forward deployment.
 
 ## 🔨 Currently Building
 - `churn-prediction-v2` — Production-grade ML model with MLOps pipeline
+- - `telco-comptitive-intelligence` — RAG-based AI Gemini Flash 2.5 for telco competitive intelligence 
 - `telco-ops-ai-assistant` — RAG-based AI co-pilot for telco operations  
 - `smalert-v2-agentic` — Multi-agent reporting system (FLAGSHIP)
 
@@ -28,5 +29,5 @@ AI Solutions Architect · Forward Deployed Engineer ·
 Enterprise AI Lead
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) · 
-Banda Aceh, Indonesia
+[LinkedIn](www.linkedin.com/in/madisetiawan) · 
+Palembang, South Sumatera, Indonesia
